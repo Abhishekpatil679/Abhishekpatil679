@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can write with both my hands!!
 -->
+ Data Storage dataset used:https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
+
+Digital preservation topic is:https://github.com/WikiTeam/wikiteam
+Data curation topic is :https://github.com/Docta-ai/docta
