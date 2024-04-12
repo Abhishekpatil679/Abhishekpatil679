@@ -1,13 +1,13 @@
 ### Hi there 👋file.
 
 
-- 🔭 I’m currently working on completing my final quarter and wil be graduating this June with MAsters Degree in Data Science
+- 🔭 I’m currently working on completing my final quarter and will be graduating this June with Masters Degree in Data Science
 - 🌱 I’m currently learning Power BI and SQL
 - 👯 I’m looking to collaborate on content writing , data analytics and podcasting
 - 🤔 I’m looking for help with resume and interview practise
 - 💬 Ask me about Geopolitics and Cricket
 - 📫 How to reach me:abhilion.07@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: I can write with both my hands!!
   
   
