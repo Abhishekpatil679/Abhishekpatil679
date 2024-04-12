@@ -1,19 +1,16 @@
-### Hi there 👋
+### Hi there 👋file.
 
 
-**Abhishekpatil679/Abhishekpatil679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Data Analytics Portfolio Project
-- 🌱 I’m currently learning POwer BI and SQL
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on completing my final quarter and wil be graduating this June with MAsters Degree in Data Science
+- 🌱 I’m currently learning Power BI and SQL
+- 👯 I’m looking to collaborate on content writing , data analytics and podcasting
 - 🤔 I’m looking for help with resume and interview practise
 - 💬 Ask me about Geopolitics and Cricket
-- 📫 How to reach me: ...abhilion.07@gmail.com
+- 📫 How to reach me:abhilion.07@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can write with both my hands!!
--->
+  
+  
  Data Storage dataset used:https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 
 Digital preservation topic is:https://github.com/WikiTeam/wikiteam
